@@ -1,0 +1,393 @@
+{
+  "data": [
+    {
+      "_id": "5ea885d1c907db3cd0d18b37",
+      "audience": "Public",
+      "status": "Approved",
+      "name": "Freespeech",
+      "description": "peoples right to free speech",
+      "createdBy": { "_id": "5de4d6cf26d43127ca9a46e6", "username": "speakup" },
+      "members": [
+        {
+          "admin": true,
+          "blocked": false,
+          "_id": "5de4d6cf26d43127ca9a46e6",
+          "adminDate": "2020-04-28T19:36:49.249Z",
+          "createdAt": "2020-04-28T19:36:49.270Z",
+          "updatedAt": "2021-01-14T09:57:49.952Z",
+          "lastRead": "2021-01-14T09:57:49.951Z"
+        },
+        {
+          "admin": false,
+          "blocked": false,
+          "_id": "5dbd8d9daf5d8d0ba80af26b",
+          "lastRead": "2020-06-07T23:54:30.313Z",
+          "updatedAt": "2020-06-07T23:54:30.313Z",
+          "createdAt": "2020-06-07T23:51:49.833Z"
+        },
+        {
+          "admin": false,
+          "blocked": false,
+          "_id": "5dbe73f12d8a2f123db0fb73",
+          "lastRead": "2020-06-25T02:25:02.986Z",
+          "updatedAt": "2020-06-25T02:25:02.986Z",
+          "createdAt": "2020-06-18T00:26:21.763Z"
+        },
+        {
+          "admin": false,
+          "blocked": false,
+          "_id": "5f5ade7ce590b141d2f3c7c9",
+          "lastRead": "2021-01-19T17:19:29.565Z",
+          "updatedAt": "2021-01-19T17:19:29.566Z",
+          "createdAt": "2020-09-11T10:58:26.059Z"
+        }
+      ],
+      "createdAt": "2020-04-28T19:36:49.270Z",
+      "updatedAt": "2021-01-19T17:19:29.566Z",
+      "categoryName": "1st Amendment",
+      "subCategoryName": "Freedom of Speech",
+      "userName": "speakup",
+      "approvedByName": "sysadmin",
+      "countryName": "Global",
+      "isAdmin": false,
+      "isCreator": false,
+      "lastRead": "2021-01-19T17:19:29.565Z",
+      "topicRelevance": "1st Amendment, Freedom of Speech",
+      "numberOfMembers": 4,
+      "geoLocationRelevance": "Global",
+      "stateName": null,
+      "cityName": null,
+      "lastMessage": {
+        "_id": "5ffce2a188e24c701d90c3a0",
+        "group": "5ea885d1c907db3cd0d18b37",
+        "message": "Group chat working",
+        "sentBy": "5f5ade7ce590b141d2f3c7c9",
+        "createdAt": "2021-01-11T23:43:29.188Z",
+        "updatedAt": "2021-01-11T23:43:29.188Z",
+        "__v": 0
+      },
+      "lastMessageMobile": {
+        "_id": "5ffce2a188e24c701d90c3a0",
+        "group": "5ea885d1c907db3cd0d18b37",
+        "message": "Group chat working",
+        "sentBy": "5f5ade7ce590b141d2f3c7c9",
+        "createdAt": "2021-01-11T23:43:29.188Z",
+        "updatedAt": "2021-01-11T23:43:29.188Z",
+        "__v": 0
+      },
+      "unreadCount": 0
+    },
+    {
+      "_id": "5edf21ff8a3d817bfb67a8ab",
+      "audience": "Public",
+      "status": "Approved",
+      "name": "test",
+      "description": "testvdesc",
+      "createdBy": {
+        "_id": "5dc4fd71d758663286e55431",
+        "username": "hardik123"
+      },
+      "members": [
+        {
+          "admin": true,
+          "blocked": false,
+          "_id": "5dc4fd71d758663286e55431",
+          "adminDate": "2020-06-09T05:45:34.061Z",
+          "createdAt": "2020-06-09T05:45:35.709Z",
+          "updatedAt": "2021-01-14T14:03:40.304Z",
+          "lastRead": "2021-01-14T14:03:40.303Z"
+        },
+        {
+          "admin": false,
+          "blocked": false,
+          "_id": "5f5ade7ce590b141d2f3c7c9",
+          "lastRead": "2021-01-15T20:37:29.590Z",
+          "updatedAt": "2021-01-15T20:37:29.591Z",
+          "createdAt": "2021-01-12T13:04:47.041Z"
+        }
+      ],
+      "profilePic": "https://argueds3.s3.amazonaws.com/group/1592505205546.png",
+      "createdAt": "2020-06-09T05:45:35.710Z",
+      "updatedAt": "2021-01-15T20:37:29.591Z",
+      "categoryName": "1st Amendment",
+      "subCategoryName": "Freedom of Speech",
+      "userName": "hardik123",
+      "countryName": "Albania",
+      "stateName": "Berat",
+      "cityName": "Statewide News",
+      "isAdmin": false,
+      "isCreator": false,
+      "lastRead": "2021-01-15T20:37:29.590Z",
+      "topicRelevance": "1st Amendment, Freedom of Speech",
+      "numberOfMembers": 2,
+      "geoLocationRelevance": "Albania, Berat, Statewide News",
+      "lastMessage": {
+        "_id": "6001fd092cf0bb7a41711648",
+        "group": "5edf21ff8a3d817bfb67a8ab",
+        "message": "hello",
+        "sentBy": "5f5ade7ce590b141d2f3c7c9",
+        "createdAt": "2021-01-15T20:37:29.581Z",
+        "updatedAt": "2021-01-15T20:37:29.581Z",
+        "__v": 0
+      },
+      "lastMessageMobile": {
+        "_id": "6001fd092cf0bb7a41711648",
+        "group": "5edf21ff8a3d817bfb67a8ab",
+        "message": "hello",
+        "sentBy": "5f5ade7ce590b141d2f3c7c9",
+        "createdAt": "2021-01-15T20:37:29.581Z",
+        "updatedAt": "2021-01-15T20:37:29.581Z",
+        "__v": 0
+      },
+      "unreadCount": 0
+    },
+    {
+      "_id": "5ffb935688e24c701d90c282",
+      "audience": "Private",
+      "status": "Approved",
+      "name": "testGroup",
+      "description": "testing",
+      "createdBy": { "_id": "5f5ade7ce590b141d2f3c7c9", "username": "demov" },
+      "members": [
+        {
+          "admin": true,
+          "blocked": false,
+          "_id": "5f5ade7ce590b141d2f3c7c9",
+          "adminDate": "2021-01-10T23:52:54.675Z",
+          "createdAt": "2021-01-10T23:52:54.714Z",
+          "updatedAt": "2021-01-11T23:14:51.342Z",
+          "lastRead": "2021-01-11T23:14:51.342Z"
+        }
+      ],
+      "createdAt": "2021-01-10T23:52:54.714Z",
+      "updatedAt": "2021-01-11T23:14:51.342Z",
+      "categoryName": "Beverages",
+      "subCategoryName": "Energy Drinks",
+      "userName": "demov",
+      "countryName": "Pakistan",
+      "stateName": "Sindh",
+      "cityName": "Sukkur",
+      "isAdmin": true,
+      "isCreator": true,
+      "lastRead": "2021-01-11T23:14:51.342Z",
+      "topicRelevance": "Beverages, Energy Drinks",
+      "numberOfMembers": 1,
+      "geoLocationRelevance": "Pakistan, Sindh, Sukkur",
+      "lastMessage": {
+        "_id": "5ffcd70588e24c701d90c391",
+        "group": "5ffb935688e24c701d90c282",
+        "message": "test",
+        "sentBy": "5f5ade7ce590b141d2f3c7c9",
+        "createdAt": "2021-01-11T22:53:57.191Z",
+        "updatedAt": "2021-01-11T22:53:57.191Z",
+        "__v": 0
+      },
+      "lastMessageMobile": {
+        "_id": "5ffcd70588e24c701d90c391",
+        "group": "5ffb935688e24c701d90c282",
+        "message": "test",
+        "sentBy": "5f5ade7ce590b141d2f3c7c9",
+        "createdAt": "2021-01-11T22:53:57.191Z",
+        "updatedAt": "2021-01-11T22:53:57.191Z",
+        "__v": 0
+      },
+      "unreadCount": 0,
+      "nominations": [],
+      "joinRequests": []
+    },
+    {
+      "_id": "5ffb9a5288e24c701d90c293",
+      "audience": "Private",
+      "status": "Approved",
+      "name": "test124",
+      "description": "yestfr",
+      "createdBy": { "_id": "5f5ade7ce590b141d2f3c7c9", "username": "demov" },
+      "members": [
+        {
+          "admin": true,
+          "blocked": false,
+          "_id": "5f5ade7ce590b141d2f3c7c9",
+          "adminDate": "2021-01-11T00:22:42.033Z",
+          "createdAt": "2021-01-11T00:22:42.065Z",
+          "updatedAt": "2021-01-12T18:01:59.889Z",
+          "lastRead": "2021-01-12T18:01:59.889Z"
+        }
+      ],
+      "createdAt": "2021-01-11T00:22:42.065Z",
+      "updatedAt": "2021-01-12T18:01:59.889Z",
+      "categoryName": "Business",
+      "subCategoryName": "Business Intelligence ",
+      "userName": "demov",
+      "countryName": "Argentina",
+      "stateName": "National",
+      "isAdmin": true,
+      "isCreator": true,
+      "lastRead": "2021-01-12T18:01:59.889Z",
+      "topicRelevance": "Business, Business Intelligence ",
+      "numberOfMembers": 1,
+      "geoLocationRelevance": "Argentina, National",
+      "cityName": null,
+      "lastMessage": {
+        "_id": "5ffde4171962ef33251826b5",
+        "group": "5ffb9a5288e24c701d90c293",
+        "message": "hey",
+        "sentBy": "5f5ade7ce590b141d2f3c7c9",
+        "createdAt": "2021-01-12T18:01:59.883Z",
+        "updatedAt": "2021-01-12T18:01:59.883Z",
+        "__v": 0
+      },
+      "lastMessageMobile": {
+        "_id": "5ffde4171962ef33251826b5",
+        "group": "5ffb9a5288e24c701d90c293",
+        "message": "hey",
+        "sentBy": "5f5ade7ce590b141d2f3c7c9",
+        "createdAt": "2021-01-12T18:01:59.883Z",
+        "updatedAt": "2021-01-12T18:01:59.883Z",
+        "__v": 0
+      },
+      "unreadCount": 0,
+      "nominations": [],
+      "joinRequests": []
+    },
+    {
+      "_id": "5ffec67ed5506877df3174f5",
+      "audience": "Private",
+      "status": "Approved",
+      "name": "miketest",
+      "description": "teat",
+      "createdBy": { "_id": "5f5ade7ce590b141d2f3c7c9", "username": "demov" },
+      "members": [
+        {
+          "admin": true,
+          "blocked": false,
+          "_id": "5f5ade7ce590b141d2f3c7c9",
+          "adminDate": "2021-01-13T10:07:58.579Z",
+          "createdAt": "2021-01-13T10:07:58.601Z",
+          "updatedAt": "2021-01-16T10:22:44.315Z",
+          "lastRead": "2021-01-16T10:22:44.315Z"
+        },
+        {
+          "admin": false,
+          "blocked": false,
+          "_id": "5de4d6cf26d43127ca9a46e6",
+          "lastRead": "2021-01-16T10:23:00.548Z",
+          "updatedAt": "2021-01-16T10:23:00.548Z",
+          "createdAt": "2021-01-13T10:10:00.476Z"
+        }
+      ],
+      "createdAt": "2021-01-13T10:07:58.601Z",
+      "updatedAt": "2021-01-16T10:23:00.548Z",
+      "categoryName": "UN SDGs",
+      "subCategoryName": "Other",
+      "userName": "demov",
+      "countryName": "Australia",
+      "stateName": "National",
+      "cityName": "Other",
+      "isAdmin": true,
+      "isCreator": true,
+      "lastRead": "2021-01-16T10:22:44.315Z",
+      "topicRelevance": "UN SDGs, Other",
+      "numberOfMembers": 2,
+      "geoLocationRelevance": "Australia, National, Other",
+      "lastMessage": {
+        "_id": "6002be84e86b8b02b2f3ac5a",
+        "group": "5ffec67ed5506877df3174f5",
+        "message": "msg to demov",
+        "sentBy": "5de4d6cf26d43127ca9a46e6",
+        "createdAt": "2021-01-16T10:23:00.539Z",
+        "updatedAt": "2021-01-16T10:23:00.539Z",
+        "__v": 0
+      },
+      "lastMessageMobile": {
+        "_id": "6002be84e86b8b02b2f3ac5a",
+        "group": "5ffec67ed5506877df3174f5",
+        "message": "msg to demov",
+        "sentBy": "5de4d6cf26d43127ca9a46e6",
+        "createdAt": "2021-01-16T10:23:00.539Z",
+        "updatedAt": "2021-01-16T10:23:00.539Z",
+        "__v": 0
+      },
+      "unreadCount": 1,
+      "nominations": [],
+      "joinRequests": []
+    },
+    {
+      "_id": "6001fd372cf0bb7a4171164f",
+      "audience": "Public",
+      "status": "Approved",
+      "name": "has",
+      "description": "12344",
+      "createdBy": { "_id": "5f5ade7ce590b141d2f3c7c9", "username": "demov" },
+      "members": [
+        {
+          "admin": true,
+          "blocked": false,
+          "_id": "5f5ade7ce590b141d2f3c7c9",
+          "adminDate": "2021-01-15T20:38:15.495Z",
+          "createdAt": "2021-01-15T20:38:15.528Z",
+          "updatedAt": "2021-01-15T20:38:15.528Z"
+        }
+      ],
+      "createdAt": "2021-01-15T20:38:15.529Z",
+      "updatedAt": "2021-01-15T20:38:15.529Z",
+      "categoryName": "Finance",
+      "subCategoryName": "Banking",
+      "userName": "demov",
+      "countryName": "Argentina",
+      "stateName": "Formosa",
+      "isAdmin": true,
+      "isCreator": true,
+      "topicRelevance": "Finance, Banking",
+      "numberOfMembers": 1,
+      "geoLocationRelevance": "Argentina, Formosa",
+      "cityName": null,
+      "lastMessage": null,
+      "lastMessageMobile": {},
+      "lastRead": "",
+      "unreadCount": 0,
+      "nominations": [],
+      "joinRequests": []
+    },
+    {
+      "_id": "6001fd402cf0bb7a41711652",
+      "audience": "Public",
+      "status": "Approved",
+      "name": "has123",
+      "description": "12344",
+      "createdBy": { "_id": "5f5ade7ce590b141d2f3c7c9", "username": "demov" },
+      "members": [
+        {
+          "admin": true,
+          "blocked": false,
+          "_id": "5f5ade7ce590b141d2f3c7c9",
+          "adminDate": "2021-01-15T20:38:24.603Z",
+          "createdAt": "2021-01-15T20:38:24.629Z",
+          "updatedAt": "2021-01-15T20:38:32.051Z",
+          "lastRead": "2021-01-15T20:38:32.051Z"
+        }
+      ],
+      "createdAt": "2021-01-15T20:38:24.629Z",
+      "updatedAt": "2021-01-15T20:38:32.051Z",
+      "categoryName": "Finance",
+      "subCategoryName": "Banking",
+      "userName": "demov",
+      "countryName": "Argentina",
+      "stateName": "Formosa",
+      "isAdmin": true,
+      "isCreator": true,
+      "lastRead": "2021-01-15T20:38:32.051Z",
+      "topicRelevance": "Finance, Banking",
+      "numberOfMembers": 1,
+      "geoLocationRelevance": "Argentina, Formosa",
+      "cityName": null,
+      "lastMessage": null,
+      "lastMessageMobile": {},
+      "unreadCount": 0,
+      "nominations": [],
+      "joinRequests": []
+    }
+  ],
+  "message": "Groups retrived successfully.",
+  "key": "group.retrive_success",
+  "code": 200
+}
